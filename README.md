@@ -60,3 +60,8 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Express.js Documentation](https://expressjs.com/)
 - [RESTful API Design Best Practices](https://restfulapi.net/)
 - [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) 
+
+
+## My PostMan Documentation
+
+- [PostMan Documentation]https://stephenadeniyi.postman.co/workspace/Stephen-Adeniyi's-Workspace~2c83b21e-d862-4d5e-82cd-55996db1a301/request/44476639-10bdcc17-91fe-4576-82bb-95e0ee0736bf?action=share&creator=44476639
