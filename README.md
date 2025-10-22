@@ -64,4 +64,4 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 ## My PostMan Documentation
 
-- [PostMan Documentation]https://stephenadeniyi.postman.co/workspace/Stephen-Adeniyi's-Workspace~2c83b21e-d862-4d5e-82cd-55996db1a301/request/44476639-10bdcc17-91fe-4576-82bb-95e0ee0736bf?action=share&creator=44476639
+- [PostMan Documentation]https://stephenadeniyi.postman.co/workspace/Stephen-Adeniyi's-Workspace~2c83b21e-d862-4d5e-82cd-55996db1a301/collection/44476639-99698bed-96d7-4514-9e45-8c00fa2b5d15?action=share&creator=44476639
